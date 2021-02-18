@@ -1,0 +1,17 @@
+{
+    "name": "own_tooken",
+    "version": "1.0.0",
+    "description": "",
+    "main": "truffle-config.js",  
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "2.5.4"
+    }
+}
